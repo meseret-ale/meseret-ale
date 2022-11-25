@@ -43,11 +43,9 @@
         <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
         </a>
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Vs Code"
+        <a href="https://github.com/meseret-ale?tab=repositories" target="_blank"><img alt="Vs Code"
                         src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white">
-        </a>
-           <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Git"
-                        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
         </a>
 </p>
 
@@ -85,15 +83,15 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/meseret-ale">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meseret-ale&theme=radical&border=7F3FBF&background=0D1117" alt="mess's GitHub streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=meseret-ale&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/meseret-ale"><img alt="mess's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=meseret-ale&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=meseret-ale&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <p></p>
-<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meseret-ale&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<a href="https://github.com/meseret-ale"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meseret-ale&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
