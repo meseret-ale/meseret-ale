@@ -58,7 +58,7 @@
         <p>Find me on</p>
   
 </a><a href="https://www.linkedin.com/in/meseret-alemneh-311174256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meseret"/></a><a href="https://www.instagram.com/mess99_a/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /></a> 
-    <a href="https://facebook.com/alsiam.me" target="_blank"><img src="https://www.facebook.com/chris.alamnah/" alt="Meseret"  /></a> 
+    <a href="https://www.facebook.com/chris.alamnah/" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Meseret"  /></a> 
     </p>
     <br />
     <!-- Programmer Gif Image -->
@@ -68,8 +68,8 @@
 
 ✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp;Love to writing code and learning new features<br/><br/>
-📧 &emsp;Reach me anytime: saif@alsiam.com<br/><br/>
-💬 &emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+📧 &emsp;Reach me anytime: ets045312feng@aastu.edu.et<br/><br/>
+📧 &emsp;Reach me anytime: alemnehmeseret@gmail.com<br/><br/>
 
 <p><br></p>
     
@@ -77,29 +77,6 @@
 
 <!-- My top Open Sources Projects -->
 <!-- _________________________________________________________________________________________________ -->
-
-## 📘 My Top Open Source Projects -
-
-<br/>
-<p align="center">
-<a href="https://github.com/alsiam/alsiam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alsiam/alfolio">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/alsiam/problem-solving">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alsiam/alsiam.github.io">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-</p>
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -114,9 +91,9 @@
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=meseret-ale&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=meseret-ale&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <p></p>
-<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsiam&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meseret-ale&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
