@@ -8,14 +8,12 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Self+Taught+Programmer;2.5%2B+years+of+coding+experien" alt="Typing SVG" /></a>
 </p>
-<a href="https://gpvc.arturio.dev/alsiam"><img src="https://gpvc.arturio.dev/alsiam" align="right" alt="Visits"></a>
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
+<a href="https://gpvc.arturio.dev/alsiam"><img src="https://gpvc.arturio.dev/alsiam" align="left" alt="Visits"></a>
+<br>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
-                <b><a target="_blank" href="https://alsiam.com">Meseret Alemnew</a></b>
+                <b><a target="_blank" href="https://www.facebook.com/chris.alamnah/">Meseret Alemnew</a></b>
         </samp>
 </h3>
 <p align="center">
@@ -34,7 +32,7 @@
         <img alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         <img alt="" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
         <img alt="" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript"
+        <a href="https://github.com/meseret-ale?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
         </a>
         <a href="https://github.com/meseret-ale?tab=repositories" target="_blank"><img alt="Vs Code"
@@ -49,7 +47,7 @@
     <p align="center">
         <p>Find me on</p>
   
-</a><a href="https://www.linkedin.com/in/meseret-alemneh-311174256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meseret"/></a><a href="https://www.instagram.com/mess99_a/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /></a> 
+</a><a href="https://www.linkedin.com/in/meseret-alemneh-311174256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meseret"/></a><a href="https://www.instagram.com/mess99_a/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Meseret Alemnew" /></a> 
     <a href="https://www.facebook.com/chris.alamnah/" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Meseret"  /></a> 
     </p>
     <br />
@@ -83,9 +81,9 @@
 </p>
 
 <a> 
-    <a href="https://github.com/meseret-ale"><img alt="mess's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=meseret-ale&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=meseret-ale&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/meseret-ale"><img alt="Mess's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=meseret-ale&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/meseret-ale"><img alt="mess's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=meseret-ale&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <p></p>
-<a href="https://github.com/meseret-ale"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meseret-ale&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<a href="https://github.com/meseret-ale"><img alt="Mess's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meseret-ale&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
