@@ -47,7 +47,7 @@
     <p align="center">
         <p>Find me on</p>
   
-</a><a href="https://www.linkedin.com/in/meseret-alemneh-311174256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meseret"/></a><a href="https://www.instagram.com/mess99_a/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Meseret Alemnew" /></a> 
+</a><a href="https://www.linkedin.com/in/meseret-alemnew-311174256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meseret"/></a><a href="https://www.instagram.com/mess99_a/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Meseret Alemnew" /></a> 
     <a href="https://www.facebook.com/chris.alamnah/" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Meseret"  /></a> 
     </p>
     <br />
